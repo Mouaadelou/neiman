@@ -16,8 +16,8 @@
 			"name": "Home",
 			"type": "url",
 			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_home.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/dashboard.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/dashboard_dark.html"
+			"url": "https://www.neimanmarcus.com",
+			"url_dark": "https://www.neimanmarcus.com"
 		},
 		
 	],

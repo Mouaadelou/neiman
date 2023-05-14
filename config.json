@@ -7,7 +7,7 @@
 		"cache": "false",
 		"open_link_in_external_browser": "false",
 		"user_agent": "",
-		"privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
+		"privacy_policy_url": "https://sites.google.com/view/neimanmarcusfree/accueil",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
 		"redirect_url": ""
 	},	
@@ -19,34 +19,7 @@
 			"url": "https://www.solodroid.net/demo/webdroid/pages/dashboard.html",
 			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/dashboard_dark.html"
 		},
-		{
-			"name": "Portfolio",
-			"type": "url",
-			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_portfolio.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
-		},
-		{
-			"name": "Testimonials",
-			"type": "url",
-			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_testimonials.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/testimonials.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/testimonials_dark.html"
-		},
-		{
-			"name": "Contact us",
-			"type": "url",
-			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_contact.png",
-			"url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
-			"url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
-		},
-		{
-			"name": "Privacy Policy",
-			"type": "assets",
-			"icon": "https://www.solodroid.net/demo/webdroid/images/ic_privacy.png",
-			"url": "privacy_policy.html",
-			"url_dark": "privacy_policy_dark.html"
-		}
+		
 	],
 	"notification": {
 		"fcm_notification_topic": "webdroid_topic",
